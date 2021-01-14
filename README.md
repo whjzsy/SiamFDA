@@ -1,26 +1,5 @@
 # SiamFDA
 
-This project hosts the code for implementing the SiamFDA algorithm for visual tracking, as presented in our paper: 
-
-```
-@inproceedings{siamfda,
-  title={Siamese Box Adaptive Network for Visual Tracking},
-  author={Chen, Zedu and Zhong, Bineng and Li, Guorong and Zhang, Shengping and Ji, Rongrong},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={6668--6677},
-  year={2020}
-}
-```
-
-
-
-
-<div align="center">
-  <img src="demo/output/12.gif" width="1280px" />
-  <img src="demo/output/34.gif" width="1280px" />
-  <p>Examples of SiamFDA outputs. The green boxes are the ground-truth bounding boxes of VOT2018, the yellow boxes are results yielded by SiamBAN.</p>
-</div>
-
 
 
 
