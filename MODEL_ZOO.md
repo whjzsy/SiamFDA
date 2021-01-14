@@ -10,8 +10,8 @@ All configurations for these baselines are located in the [`experiments`](experi
 
 | Model(arch+backbone) | VOT2018(EAO/A./R.) | OTB100(AUC/Prec.) | URL                                                          |
 | -------------------- | :----------------: | :---------------: | ------------------------------------------------------------ |
-| siamfda_r50_l234     | 0.476/0.597/0.178  |         -         | [model](https://drive.google.com/file/d/1SJwPUpTQm6xL44-8jLvDrSMhOzVsbLAZ/view?usp=sharing) |
-| siamfda_r50_l234_otb |         -          |    0.696/0.910    | [model](https://drive.google.com/file/d/1d_z_7azA56PrnyQWkRFnZmxb1IGU-72E/view?usp=sharing) |
+| siamfda_r50_l234     | 0.476/0.597/0.178  |         -         | [model](https://drive.google.com/file/d/1Evk9HkaRyPDoYqNz337KSj8F_PpsEbLy/view?usp=sharing) |
+| siamfda_r50_l234_otb |         -          |    0.672/0.910    | [model](https://drive.google.com/file/d/1Evk9HkaRyPDoYqNz337KSj8F_PpsEbLy/view?usp=sharing) |
 
 Note:
 
