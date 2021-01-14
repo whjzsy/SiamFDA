@@ -17,7 +17,7 @@ export PYTHONPATH=/path/to/siamfda:$PYTHONPATH
 
 ### Download models
 
-Download models in [Model Zoo](https://pan.baidu.com/s/1LTyUgXExO7Ybs-8l-cENRg), extraction code: `qwet` and put the `model.pth` in the correct directory in experiments
+Download models in [Google Drive](https://drive.google.com/file/d/1Evk9HkaRyPDoYqNz337KSj8F_PpsEbLy/view?usp=sharing) or [Baidu Yun](https://pan.baidu.com/s/1LTyUgXExO7Ybs-8l-cENRg), extraction code: `qwet` and put the `model.pth` in the correct directory in experiments
 
 ### Webcam demo
 
